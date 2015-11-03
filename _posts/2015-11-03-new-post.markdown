@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New post!"
+date:   2015-11-03
+categories: jekyll update
+permalink: new-post
+---
+This is a new post.

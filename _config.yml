@@ -7,6 +7,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://jefferson.im" # the base hostname & protocol for your site
 twitter_username: jeffersonwlam
 github_username:  jeffersonlam
+paginate: 8
 
 # Build settings
 markdown: kramdown
